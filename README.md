@@ -36,7 +36,8 @@ S3 Bronze → AWS Glue ETL → Data Validation → S3 Silver → Gold Aggregatio
 - Revenue validation + error quarantine
 - Glue Data Catalog + Athena SQL queries
 
-[![GitHub](https://img.shields.io/badge/View_Project-181717?style=flat&logo=github&logoColor=white)](YOUR_AWS_PROJECT_GITHUB_LINK)
+[![LinkedIn](https://img.shields.io/badge/View_Post-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/aravind-s-anand-53314a369_dataengineering-aws-etl-activity-7436395346081026048-Qsp7)
+[![Demo](https://img.shields.io/badge/Watch_Demo-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/37h25q1AaHg)
 
 ---
 
@@ -49,7 +50,6 @@ S3 Bronze → AWS Glue ETL → Data Validation → S3 Silver → Gold Aggregatio
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/AWS_Glue-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
@@ -57,43 +57,16 @@ S3 Bronze → AWS Glue ETL → Data Validation → S3 Silver → Gold Aggregatio
 
 ## 📊 GitHub Stats
 
-![Aravind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aravindsanandin&show_icons=true&theme=dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=aravindsanandin&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsanandin&layout=compact&theme=dark&hide_border=true" width="48%"/>
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-s-anand)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/WfVg-zzc0X0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aravind-s-anand-53314a369)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@aravindsanand)
 
 ---
 
 > 💡 *"Real data engineering is 40% building, 60% debugging."*
-```
-
-Replace `YOUR_AWS_PROJECT_GITHUB_LINK` with your AWS project GitHub repo link.
-
----
-
-## Also Pin Both Repos
-
-Go to your GitHub profile:
-- Click **Customize your pins**
-- Select both:
-  - `Apple-Scale-Retail-Data-Platform`
-  - Your AWS project repo
-- Click **Save pins**
-
----
-
-## Your Profile Now Tells This Story
-```
-Project 1 — Local real-time streaming stack
-           (Kafka, Spark, DuckDB, Streamlit)
-
-Project 2 — Cloud data reliability pipeline
-           (AWS S3, Glue, Athena)
-
-Together → Shows both local and cloud data engineering
-         → Shows both streaming and batch processing
-         → Shows both open source and managed cloud tools

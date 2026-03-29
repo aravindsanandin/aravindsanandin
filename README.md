@@ -55,10 +55,18 @@ S3 Bronze → AWS Glue ETL → Data Validation → S3 Silver → Gold Aggregatio
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=aravindsanandin&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravindsanandin&layout=compact&theme=dark&hide_border=true" width="48%"/>
+![Python](https://img.shields.io/badge/Most_Used-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Repos](https://img.shields.io/badge/Public_Repos-4-22c55e?style=flat)
+![Focus](https://img.shields.io/badge/Focus-Data_Engineering-FF4B4B?style=flat)
+
+| Project | Stack | Type |
+|---|---|---|
+| 🍎 Global Retail Data Platform | Kafka, Spark, DuckDB, Streamlit | Real-time Streaming |
+| ☁️ AWS Data Reliability Pipeline | S3, Glue, Athena | Cloud Batch ETL |
+| ⚡ AWS Serverless Pipeline | Lambda, S3, Athena | Serverless ETL |
+| 🍕 Zomato ETL Pipeline | Python, Pandas | Data Pipeline |
 
 ---
 
